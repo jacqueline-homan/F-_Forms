@@ -1,0 +1,5 @@
+/Users/admin/Projects/F-Sharp/Forms/Forms/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/Users/admin/Projects/F-Sharp/Forms/Forms/bin/Debug/Forms.exe.mdb
+/Users/admin/Projects/F-Sharp/Forms/Forms/bin/Debug/Forms.exe
+/Users/admin/Projects/F-Sharp/Forms/Forms/obj/x86/Debug/Forms.exe
+/Users/admin/Projects/F-Sharp/Forms/Forms/obj/x86/Debug/Forms.exe.mdb
